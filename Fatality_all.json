@@ -1,0 +1,5045 @@
+
+    {
+        "Fatality": [
+            {
+                "target": "Afghanistan",
+                "attacker": "Afghanistan",
+                "fatality": 26861.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Algeria",
+                "fatality": 5.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Australia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Bangladesh",
+                "fatality": 1.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Canada",
+                "fatality": 42.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "China",
+                "fatality": 11.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Denmark",
+                "fatality": 4.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "East Timor",
+                "fatality": 0.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "France",
+                "fatality": 7.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Georgia",
+                "fatality": 4.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Germany",
+                "fatality": 17.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Great Britain",
+                "fatality": 32.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "India",
+                "fatality": 82.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Iran",
+                "fatality": 2.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Iraq",
+                "fatality": 23.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Israel",
+                "fatality": 2.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Italy",
+                "fatality": 13.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Japan",
+                "fatality": 5.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Nepal",
+                "fatality": 16.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Netherlands",
+                "fatality": 1.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Pakistan",
+                "fatality": 52.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "South Korea",
+                "fatality": 5.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Spain",
+                "fatality": 12.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Sweden",
+                "fatality": 1.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Tajikistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Turkey",
+                "fatality": 8.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "Ukraine",
+                "fatality": 7.0
+            },
+            {
+                "target": "Afghanistan",
+                "attacker": "United States",
+                "fatality": 185.0
+            },
+            {
+                "target": "Albania",
+                "attacker": "Albania",
+                "fatality": 11.0
+            },
+            {
+                "target": "Albania",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Albania",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Afghanistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Albania",
+                "fatality": 21.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Algeria",
+                "fatality": 6453.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Canada",
+                "fatality": 13.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "France",
+                "fatality": 11.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Mali",
+                "fatality": 1.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Niger",
+                "fatality": 0.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Russia",
+                "fatality": 4.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Saudi Arabia",
+                "fatality": 9.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Algeria",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 0.0
+            },
+            {
+                "target": "Angola",
+                "attacker": "Algeria",
+                "fatality": 7.0
+            },
+            {
+                "target": "Angola",
+                "attacker": "Angola",
+                "fatality": 808.0
+            },
+            {
+                "target": "Angola",
+                "attacker": "Australia",
+                "fatality": 4.0
+            },
+            {
+                "target": "Angola",
+                "attacker": "China",
+                "fatality": 2.0
+            },
+            {
+                "target": "Angola",
+                "attacker": "Togo",
+                "fatality": 2.0
+            },
+            {
+                "target": "Argentina",
+                "attacker": "Argentina",
+                "fatality": 3.0
+            },
+            {
+                "target": "Argentina",
+                "attacker": "Chile",
+                "fatality": 0.0
+            },
+            {
+                "target": "Argentina",
+                "attacker": "Colombia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Argentina",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Argentina",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Armenia",
+                "attacker": "Armenia",
+                "fatality": 16.0
+            },
+            {
+                "target": "Armenia",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Australia",
+                "attacker": "Australia",
+                "fatality": 9.0
+            },
+            {
+                "target": "Australia",
+                "attacker": "Iraq",
+                "fatality": 0.0
+            },
+            {
+                "target": "Australia",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Austria",
+                "attacker": "Austria",
+                "fatality": 3.0
+            },
+            {
+                "target": "Austria",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Austria",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Azerbaijan",
+                "attacker": "Azerbaijan",
+                "fatality": 9.0
+            },
+            {
+                "target": "Bahamas",
+                "attacker": "Bahamas",
+                "fatality": 1.0
+            },
+            {
+                "target": "Bahamas",
+                "attacker": "Cuba",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bahrain",
+                "attacker": "Bahrain",
+                "fatality": 27.0
+            },
+            {
+                "target": "Bahrain",
+                "attacker": "Bangladesh",
+                "fatality": 1.0
+            },
+            {
+                "target": "Bahrain",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bahrain",
+                "attacker": "India",
+                "fatality": 1.0
+            },
+            {
+                "target": "Bahrain",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bangladesh",
+                "attacker": "Bangladesh",
+                "fatality": 414.0
+            },
+            {
+                "target": "Bangladesh",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bangladesh",
+                "attacker": "India",
+                "fatality": 1.0
+            },
+            {
+                "target": "Bangladesh",
+                "attacker": "Malaysia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bangladesh",
+                "attacker": "Pakistan",
+                "fatality": 10.0
+            },
+            {
+                "target": "Bangladesh",
+                "attacker": "Saudi Arabia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Bangladesh",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Belarus",
+                "attacker": "Belarus",
+                "fatality": 14.0
+            },
+            {
+                "target": "Belarus",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Belgium",
+                "attacker": "Belgium",
+                "fatality": 42.0
+            },
+            {
+                "target": "Belgium",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Belgium",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Belgium",
+                "attacker": "Saudi Arabia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Belgium",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Belize",
+                "attacker": "Belize",
+                "fatality": 0.0
+            },
+            {
+                "target": "Belize",
+                "attacker": "Guatemala",
+                "fatality": 0.0
+            },
+            {
+                "target": "Benin",
+                "attacker": "Benin",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bhutan",
+                "attacker": "Bhutan",
+                "fatality": 9.0
+            },
+            {
+                "target": "Bolivia",
+                "attacker": "Bolivia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bolivia",
+                "attacker": "Brazil",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bolivia",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bosnia-Herzegovina",
+                "attacker": "Bosnia-Herzegovina",
+                "fatality": 11.0
+            },
+            {
+                "target": "Bosnia-Herzegovina",
+                "attacker": "Croatia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bosnia-Herzegovina",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bosnia-Herzegovina",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bosnia-Herzegovina",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bosnia-Herzegovina",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bosnia-Herzegovina",
+                "attacker": "Vatican City",
+                "fatality": 0.0
+            },
+            {
+                "target": "Brazil",
+                "attacker": "Brazil",
+                "fatality": 16.0
+            },
+            {
+                "target": "Brazil",
+                "attacker": "Nigeria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Brazil",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bulgaria",
+                "attacker": "Bulgaria",
+                "fatality": 7.0
+            },
+            {
+                "target": "Bulgaria",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Bulgaria",
+                "attacker": "Yugoslavia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Burkina Faso",
+                "attacker": "Burkina Faso",
+                "fatality": 96.0
+            },
+            {
+                "target": "Burkina Faso",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Burundi",
+                "attacker": "Angola",
+                "fatality": 136.0
+            },
+            {
+                "target": "Burundi",
+                "attacker": "Austria",
+                "fatality": 7.0
+            },
+            {
+                "target": "Burundi",
+                "attacker": "Burundi",
+                "fatality": 2332.0
+            },
+            {
+                "target": "Burundi",
+                "attacker": "Republic of the Congo",
+                "fatality": 0.0
+            },
+            {
+                "target": "Burundi",
+                "attacker": "Tanzania",
+                "fatality": 0.0
+            },
+            {
+                "target": "Cambodia",
+                "attacker": "Cambodia",
+                "fatality": 147.0
+            },
+            {
+                "target": "Cambodia",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Cambodia",
+                "attacker": "Vietnam",
+                "fatality": 23.0
+            },
+            {
+                "target": "Cameroon",
+                "attacker": "Cameroon",
+                "fatality": 1472.0
+            },
+            {
+                "target": "Cameroon",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Cameroon",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Cameroon",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Cameroon",
+                "attacker": "Nigeria",
+                "fatality": 5.0
+            },
+            {
+                "target": "Canada",
+                "attacker": "Canada",
+                "fatality": 15.0
+            },
+            {
+                "target": "Canada",
+                "attacker": "Syria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Canada",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Central African Republic",
+                "attacker": "Central African Republic",
+                "fatality": 1123.0
+            },
+            {
+                "target": "Central African Republic",
+                "attacker": "Democratic Republic of the Congo",
+                "fatality": 4.0
+            },
+            {
+                "target": "Central African Republic",
+                "attacker": "France",
+                "fatality": 2.0
+            },
+            {
+                "target": "Central African Republic",
+                "attacker": "Poland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Chad",
+                "attacker": "Chad",
+                "fatality": 568.0
+            },
+            {
+                "target": "Chad",
+                "attacker": "France",
+                "fatality": 1.0
+            },
+            {
+                "target": "Chad",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Chad",
+                "attacker": "Nigeria",
+                "fatality": 6.0
+            },
+            {
+                "target": "Chad",
+                "attacker": "Saudi Arabia",
+                "fatality": 2.0
+            },
+            {
+                "target": "Chad",
+                "attacker": "Sudan",
+                "fatality": 23.0
+            },
+            {
+                "target": "Chad",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Chile",
+                "attacker": "Brazil",
+                "fatality": 0.0
+            },
+            {
+                "target": "Chile",
+                "attacker": "Chile",
+                "fatality": 7.0
+            },
+            {
+                "target": "Chile",
+                "attacker": "Colombia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Chile",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Chile",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "China",
+                "attacker": "China",
+                "fatality": 890.0
+            },
+            {
+                "target": "China",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "China",
+                "attacker": "Hong Kong",
+                "fatality": 0.0
+            },
+            {
+                "target": "China",
+                "attacker": "United States",
+                "fatality": 2.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Armenia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Brazil",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Colombia",
+                "fatality": 3092.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Ecuador",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Japan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Mexico",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Norway",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Russia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Spain",
+                "fatality": 1.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "United States",
+                "fatality": 6.0
+            },
+            {
+                "target": "Colombia",
+                "attacker": "Venezuela",
+                "fatality": 0.0
+            },
+            {
+                "target": "Croatia",
+                "attacker": "Albania",
+                "fatality": 0.0
+            },
+            {
+                "target": "Croatia",
+                "attacker": "Croatia",
+                "fatality": 4.0
+            },
+            {
+                "target": "Croatia",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Croatia",
+                "attacker": "Serbia-Montenegro",
+                "fatality": 0.0
+            },
+            {
+                "target": "Cuba",
+                "attacker": "Cuba",
+                "fatality": 0.0
+            },
+            {
+                "target": "Cyprus",
+                "attacker": "Cyprus",
+                "fatality": 2.0
+            },
+            {
+                "target": "Cyprus",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Czech Republic",
+                "attacker": "Czech Republic",
+                "fatality": 2.0
+            },
+            {
+                "target": "Czech Republic",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Bangladesh",
+                "fatality": 1.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Belgium",
+                "fatality": 0.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Democratic Republic of the Congo",
+                "fatality": 1992.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Guatemala",
+                "fatality": 23.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "India",
+                "fatality": 3.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Rwanda",
+                "fatality": 10.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "South Africa",
+                "fatality": 0.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "Tanzania",
+                "fatality": 0.0
+            },
+            {
+                "target": "Democratic Republic of the Congo",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Denmark",
+                "attacker": "Denmark",
+                "fatality": 2.0
+            },
+            {
+                "target": "Denmark",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Dominican Republic",
+                "attacker": "Dominican Republic",
+                "fatality": 1.0
+            },
+            {
+                "target": "East Timor",
+                "attacker": "Australia",
+                "fatality": 0.0
+            },
+            {
+                "target": "East Timor",
+                "attacker": "East Timor",
+                "fatality": 8.0
+            },
+            {
+                "target": "East Timor",
+                "attacker": "Indonesia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ecuador",
+                "attacker": "China",
+                "fatality": 1.0
+            },
+            {
+                "target": "Ecuador",
+                "attacker": "Ecuador",
+                "fatality": 1.0
+            },
+            {
+                "target": "Ecuador",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ecuador",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Armenia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Croatia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Democratic Republic of the Congo",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Ecuador",
+                "fatality": 2.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Egypt",
+                "fatality": 1910.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Germany",
+                "fatality": 12.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Ghana",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Greece",
+                "fatality": 17.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Italy",
+                "fatality": 1.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Libya",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Panama",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Russia",
+                "fatality": 224.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Saudi Arabia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "South Korea",
+                "fatality": 5.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "United States",
+                "fatality": 32.0
+            },
+            {
+                "target": "Egypt",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 1.0
+            },
+            {
+                "target": "El Salvador",
+                "attacker": "El Salvador",
+                "fatality": 1.0
+            },
+            {
+                "target": "Equatorial Guinea",
+                "attacker": "Equatorial Guinea",
+                "fatality": 1.0
+            },
+            {
+                "target": "Eritrea",
+                "attacker": "Eritrea",
+                "fatality": 23.0
+            },
+            {
+                "target": "Estonia",
+                "attacker": "Estonia",
+                "fatality": 2.0
+            },
+            {
+                "target": "Ethiopia",
+                "attacker": "China",
+                "fatality": 74.0
+            },
+            {
+                "target": "Ethiopia",
+                "attacker": "Ethiopia",
+                "fatality": 573.0
+            },
+            {
+                "target": "Ethiopia",
+                "attacker": "Great Britain",
+                "fatality": 3.0
+            },
+            {
+                "target": "Fiji",
+                "attacker": "Fiji",
+                "fatality": 0.0
+            },
+            {
+                "target": "Finland",
+                "attacker": "Finland",
+                "fatality": 2.0
+            },
+            {
+                "target": "France",
+                "attacker": "Corsica",
+                "fatality": 3.0
+            },
+            {
+                "target": "France",
+                "attacker": "Costa Rica",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "Finland",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "France",
+                "fatality": 276.0
+            },
+            {
+                "target": "France",
+                "attacker": "Indonesia",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "Iran",
+                "fatality": 1.0
+            },
+            {
+                "target": "France",
+                "attacker": "Iraq",
+                "fatality": 1.0
+            },
+            {
+                "target": "France",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "Lebanon",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "Morocco",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "Republic of the Congo",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "Spain",
+                "fatality": 2.0
+            },
+            {
+                "target": "France",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "France",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "French Guiana",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Gabon",
+                "attacker": "Denmark",
+                "fatality": 0.0
+            },
+            {
+                "target": "Gabon",
+                "attacker": "Gabon",
+                "fatality": 4.0
+            },
+            {
+                "target": "Gambia",
+                "attacker": "Gambia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Georgia",
+                "attacker": "Denmark",
+                "fatality": 0.0
+            },
+            {
+                "target": "Georgia",
+                "attacker": "Georgia",
+                "fatality": 57.0
+            },
+            {
+                "target": "Georgia",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Georgia",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Georgia",
+                "attacker": "Poland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Georgia",
+                "attacker": "Russia",
+                "fatality": 17.0
+            },
+            {
+                "target": "Georgia",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Afghanistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Croatia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Eritrea",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Germany",
+                "fatality": 17.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Greece",
+                "fatality": 1.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Hong Kong",
+                "fatality": 1.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Iraq",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Israel",
+                "fatality": 3.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Montenegro",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Poland",
+                "fatality": 1.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Syria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Germany",
+                "attacker": "Turkey",
+                "fatality": 8.0
+            },
+            {
+                "target": "Ghana",
+                "attacker": "Ghana",
+                "fatality": 2.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Afghanistan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Albania",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Belgium",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Bulgaria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Chile",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Cyprus",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Egypt",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Great Britain",
+                "fatality": 1.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Greece",
+                "fatality": 6.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Iran",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Jordan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Libya",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Luxembourg",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Mexico",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Pakistan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Peru",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Saudi Arabia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Serbia-Montenegro",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Sweden",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Greece",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Guatemala",
+                "attacker": "Guatemala",
+                "fatality": 25.0
+            },
+            {
+                "target": "Guatemala",
+                "attacker": "Russia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Guatemala",
+                "attacker": "United States",
+                "fatality": 2.0
+            },
+            {
+                "target": "Guinea",
+                "attacker": "Guinea",
+                "fatality": 177.0
+            },
+            {
+                "target": "Guinea",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Guinea-Bissau",
+                "attacker": "Guinea-Bissau",
+                "fatality": 16.0
+            },
+            {
+                "target": "Guyana",
+                "attacker": "Guyana",
+                "fatality": 13.0
+            },
+            {
+                "target": "Haiti",
+                "attacker": "Haiti",
+                "fatality": 35.0
+            },
+            {
+                "target": "Haiti",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Honduras",
+                "attacker": "Brazil",
+                "fatality": 1.0
+            },
+            {
+                "target": "Honduras",
+                "attacker": "Canada",
+                "fatality": 2.0
+            },
+            {
+                "target": "Honduras",
+                "attacker": "Honduras",
+                "fatality": 42.0
+            },
+            {
+                "target": "Honduras",
+                "attacker": "Taiwan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Hong Kong",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Hong Kong",
+                "attacker": "Hong Kong",
+                "fatality": 0.0
+            },
+            {
+                "target": "Hungary",
+                "attacker": "China",
+                "fatality": 2.0
+            },
+            {
+                "target": "Hungary",
+                "attacker": "Hungary",
+                "fatality": 2.0
+            },
+            {
+                "target": "Iceland",
+                "attacker": "Iceland",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "Afghanistan",
+                "fatality": 1.0
+            },
+            {
+                "target": "India",
+                "attacker": "Bangladesh",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "India",
+                "fatality": 7283.0
+            },
+            {
+                "target": "India",
+                "attacker": "Indonesia",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "Iran",
+                "fatality": 1.0
+            },
+            {
+                "target": "India",
+                "attacker": "Israel",
+                "fatality": 9.0
+            },
+            {
+                "target": "India",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "Jordan",
+                "fatality": 5.0
+            },
+            {
+                "target": "India",
+                "attacker": "Nepal",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "Pakistan",
+                "fatality": 18.0
+            },
+            {
+                "target": "India",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "Seychelles",
+                "fatality": 0.0
+            },
+            {
+                "target": "India",
+                "attacker": "Sri Lanka",
+                "fatality": 1.0
+            },
+            {
+                "target": "India",
+                "attacker": "Sudan",
+                "fatality": 10.0
+            },
+            {
+                "target": "India",
+                "attacker": "Thailand",
+                "fatality": 3.0
+            },
+            {
+                "target": "India",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Australia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "East Timor",
+                "fatality": 5.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Egypt",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Indonesia",
+                "fatality": 469.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Italy",
+                "fatality": 1.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Myanmar",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Netherlands",
+                "fatality": 1.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Philippines",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Portugal",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "Singapore",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "South Korea",
+                "fatality": 0.0
+            },
+            {
+                "target": "Indonesia",
+                "attacker": "United States",
+                "fatality": 4.0
+            },
+            {
+                "target": "Iran",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iran",
+                "attacker": "Iran",
+                "fatality": 414.0
+            },
+            {
+                "target": "Iran",
+                "attacker": "Iraq",
+                "fatality": 3.0
+            },
+            {
+                "target": "Iran",
+                "attacker": "Portugal",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Afghanistan",
+                "fatality": 4.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Algeria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Australia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Bahrain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Bulgaria",
+                "fatality": 2.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Canada",
+                "fatality": 1.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Colombia",
+                "fatality": 3.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Czech Republic",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Ecuador",
+                "fatality": 1.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Egypt",
+                "fatality": 17.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "France",
+                "fatality": 1.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Georgia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Great Britain",
+                "fatality": 34.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Greece",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Iceland",
+                "fatality": 12.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "India",
+                "fatality": 43.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Iran",
+                "fatality": 248.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Iraq",
+                "fatality": 59817.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Ireland",
+                "fatality": 1.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Italy",
+                "fatality": 34.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Japan",
+                "fatality": 6.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Jordan",
+                "fatality": 10.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Kuwait",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Lebanon",
+                "fatality": 3.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Malaysia",
+                "fatality": 2.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Nepal",
+                "fatality": 12.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Norway",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Oman",
+                "fatality": 2.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Pakistan",
+                "fatality": 10.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Philippines",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Poland",
+                "fatality": 5.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Portugal",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Qatar",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Russia",
+                "fatality": 6.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Saudi Arabia",
+                "fatality": 2.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Slovak Republic",
+                "fatality": 1.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Somalia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "South Korea",
+                "fatality": 3.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Spain",
+                "fatality": 8.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Sudan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Syria",
+                "fatality": 5.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Turkey",
+                "fatality": 26.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "Ukraine",
+                "fatality": 0.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "United Arab Emirates",
+                "fatality": 4.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "United States",
+                "fatality": 256.0
+            },
+            {
+                "target": "Iraq",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ireland",
+                "attacker": "Ireland",
+                "fatality": 2.0
+            },
+            {
+                "target": "Ireland",
+                "attacker": "Northern Ireland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Israel",
+                "attacker": "Eritrea",
+                "fatality": 0.0
+            },
+            {
+                "target": "Israel",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Israel",
+                "attacker": "Iraq",
+                "fatality": 0.0
+            },
+            {
+                "target": "Israel",
+                "attacker": "Israel",
+                "fatality": 894.0
+            },
+            {
+                "target": "Israel",
+                "attacker": "Lebanon",
+                "fatality": 0.0
+            },
+            {
+                "target": "Israel",
+                "attacker": "Thailand",
+                "fatality": 2.0
+            },
+            {
+                "target": "Israel",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 1.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "Chile",
+                "fatality": 0.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "Eritrea",
+                "fatality": 0.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "Greece",
+                "fatality": 0.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "Italy",
+                "fatality": 6.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Italy",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Ivory Coast",
+                "attacker": "Ivory Coast",
+                "fatality": 141.0
+            },
+            {
+                "target": "Jamaica",
+                "attacker": "Jamaica",
+                "fatality": 5.0
+            },
+            {
+                "target": "Jamaica",
+                "attacker": "Venezuela",
+                "fatality": 1.0
+            },
+            {
+                "target": "Japan",
+                "attacker": "Japan",
+                "fatality": 19.0
+            },
+            {
+                "target": "Japan",
+                "attacker": "South Korea",
+                "fatality": 0.0
+            },
+            {
+                "target": "Japan",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Jordan",
+                "attacker": "Great Britain",
+                "fatality": 1.0
+            },
+            {
+                "target": "Jordan",
+                "attacker": "Israel",
+                "fatality": 1.0
+            },
+            {
+                "target": "Jordan",
+                "attacker": "Jordan",
+                "fatality": 53.0
+            },
+            {
+                "target": "Jordan",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Jordan",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 0.0
+            },
+            {
+                "target": "Kazakhstan",
+                "attacker": "Kazakhstan",
+                "fatality": 23.0
+            },
+            {
+                "target": "Kazakhstan",
+                "attacker": "Saudi Arabia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Kazakhstan",
+                "attacker": "Syria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Kazakhstan",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Kenya",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Kenya",
+                "attacker": "Kenya",
+                "fatality": 1085.0
+            },
+            {
+                "target": "Kenya",
+                "attacker": "Rwanda",
+                "fatality": 2.0
+            },
+            {
+                "target": "Kenya",
+                "attacker": "Somalia",
+                "fatality": 2.0
+            },
+            {
+                "target": "Kenya",
+                "attacker": "Sudan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Kenya",
+                "attacker": "United States",
+                "fatality": 224.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Albania",
+                "fatality": 10.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Czech Republic",
+                "fatality": 0.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Germany",
+                "fatality": 3.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Kazakhstan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Kosovo",
+                "fatality": 10.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Nigeria",
+                "fatality": 1.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Russia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Serbia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Serbia-Montenegro",
+                "fatality": 16.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Kosovo",
+                "attacker": "Yugoslavia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Kuwait",
+                "attacker": "Canada",
+                "fatality": 1.0
+            },
+            {
+                "target": "Kuwait",
+                "attacker": "Kuwait",
+                "fatality": 29.0
+            },
+            {
+                "target": "Kuwait",
+                "attacker": "Pakistan",
+                "fatality": 2.0
+            },
+            {
+                "target": "Kuwait",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Kyrgyzstan",
+                "attacker": "China",
+                "fatality": 4.0
+            },
+            {
+                "target": "Kyrgyzstan",
+                "attacker": "Kyrgyzstan",
+                "fatality": 3.0
+            },
+            {
+                "target": "Laos",
+                "attacker": "China",
+                "fatality": 2.0
+            },
+            {
+                "target": "Laos",
+                "attacker": "Laos",
+                "fatality": 1.0
+            },
+            {
+                "target": "Latvia",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Latvia",
+                "attacker": "Latvia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Latvia",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Denmark",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Iran",
+                "fatality": 41.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Iraq",
+                "fatality": 7.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Ireland",
+                "fatality": 2.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Israel",
+                "fatality": 13.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Kuwait",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Lebanon",
+                "fatality": 408.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Libya",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Netherlands",
+                "fatality": 1.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Syria",
+                "fatality": 13.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "United States",
+                "fatality": 7.0
+            },
+            {
+                "target": "Lebanon",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 23.0
+            },
+            {
+                "target": "Lesotho",
+                "attacker": "Lesotho",
+                "fatality": 1.0
+            },
+            {
+                "target": "Liberia",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Liberia",
+                "attacker": "Liberia",
+                "fatality": 13.0
+            },
+            {
+                "target": "Liberia",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Algeria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Azerbaijan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Bangladesh",
+                "fatality": 2.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Belgium",
+                "fatality": 1.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Chad",
+                "fatality": 3.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "China",
+                "fatality": 1.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Egypt",
+                "fatality": 37.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Eritrea",
+                "fatality": 2.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "France",
+                "fatality": 1.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Great Britain",
+                "fatality": 2.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "India",
+                "fatality": 1.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Iran",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Iraq",
+                "fatality": 2.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Italy",
+                "fatality": 4.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Jordan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Lebanon",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Libya",
+                "fatality": 1474.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Malta",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Morocco",
+                "fatality": 1.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Netherlands",
+                "fatality": 1.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Niger",
+                "fatality": 3.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "North Korea",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Pakistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Philippines",
+                "fatality": 2.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Saudi Arabia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Senegal",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Serbia",
+                "fatality": 2.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "South Korea",
+                "fatality": 2.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Sudan",
+                "fatality": 57.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Sweden",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Tunisia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "Ukraine",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "United Arab Emirates",
+                "fatality": 0.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "United States",
+                "fatality": 5.0
+            },
+            {
+                "target": "Libya",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 1.0
+            },
+            {
+                "target": "Lithuania",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Lithuania",
+                "attacker": "Lithuania",
+                "fatality": 1.0
+            },
+            {
+                "target": "Lithuania",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Macau",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Macau",
+                "attacker": "Macau",
+                "fatality": 0.0
+            },
+            {
+                "target": "Macedonia",
+                "attacker": "Albania",
+                "fatality": 1.0
+            },
+            {
+                "target": "Macedonia",
+                "attacker": "Greece",
+                "fatality": 0.0
+            },
+            {
+                "target": "Macedonia",
+                "attacker": "Macedonia",
+                "fatality": 38.0
+            },
+            {
+                "target": "Madagascar",
+                "attacker": "Madagascar",
+                "fatality": 6.0
+            },
+            {
+                "target": "Malawi",
+                "attacker": "Malawi",
+                "fatality": 0.0
+            },
+            {
+                "target": "Malaysia",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Malaysia",
+                "attacker": "Germany",
+                "fatality": 2.0
+            },
+            {
+                "target": "Malaysia",
+                "attacker": "Indonesia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Malaysia",
+                "attacker": "Malaysia",
+                "fatality": 6.0
+            },
+            {
+                "target": "Malaysia",
+                "attacker": "Pakistan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Malaysia",
+                "attacker": "Philippines",
+                "fatality": 3.0
+            },
+            {
+                "target": "Maldives",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Maldives",
+                "attacker": "Maldives",
+                "fatality": 1.0
+            },
+            {
+                "target": "Mali",
+                "attacker": "Algeria",
+                "fatality": 2.0
+            },
+            {
+                "target": "Mali",
+                "attacker": "Chad",
+                "fatality": 4.0
+            },
+            {
+                "target": "Mali",
+                "attacker": "China",
+                "fatality": 5.0
+            },
+            {
+                "target": "Mali",
+                "attacker": "France",
+                "fatality": 5.0
+            },
+            {
+                "target": "Mali",
+                "attacker": "Mali",
+                "fatality": 391.0
+            },
+            {
+                "target": "Mali",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Mali",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Malta",
+                "attacker": "Malta",
+                "fatality": 1.0
+            },
+            {
+                "target": "Mauritania",
+                "attacker": "France",
+                "fatality": 1.0
+            },
+            {
+                "target": "Mauritania",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Mauritania",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Mauritania",
+                "attacker": "Mauritania",
+                "fatality": 24.0
+            },
+            {
+                "target": "Mexico",
+                "attacker": "Mexico",
+                "fatality": 254.0
+            },
+            {
+                "target": "Mexico",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Moldova",
+                "attacker": "Moldova",
+                "fatality": 2.0
+            },
+            {
+                "target": "Montenegro",
+                "attacker": "Montenegro",
+                "fatality": 1.0
+            },
+            {
+                "target": "Montenegro",
+                "attacker": "Serbia-Montenegro",
+                "fatality": 0.0
+            },
+            {
+                "target": "Morocco",
+                "attacker": "Morocco",
+                "fatality": 10.0
+            },
+            {
+                "target": "Mozambique",
+                "attacker": "Brazil",
+                "fatality": 0.0
+            },
+            {
+                "target": "Mozambique",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Mozambique",
+                "attacker": "India",
+                "fatality": 0.0
+            },
+            {
+                "target": "Mozambique",
+                "attacker": "Malawi",
+                "fatality": 4.0
+            },
+            {
+                "target": "Mozambique",
+                "attacker": "Mozambique",
+                "fatality": 62.0
+            },
+            {
+                "target": "Myanmar",
+                "attacker": "Bermuda",
+                "fatality": 0.0
+            },
+            {
+                "target": "Myanmar",
+                "attacker": "Myanmar",
+                "fatality": 424.0
+            },
+            {
+                "target": "Myanmar",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Namibia",
+                "attacker": "France",
+                "fatality": 3.0
+            },
+            {
+                "target": "Namibia",
+                "attacker": "Namibia",
+                "fatality": 10.0
+            },
+            {
+                "target": "Nepal",
+                "attacker": "Bhutan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nepal",
+                "attacker": "India",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nepal",
+                "attacker": "Namibia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nepal",
+                "attacker": "Nepal",
+                "fatality": 1066.0
+            },
+            {
+                "target": "Nepal",
+                "attacker": "Norway",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nepal",
+                "attacker": "Pakistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nepal",
+                "attacker": "Philippines",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nepal",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Netherlands",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Netherlands",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Netherlands",
+                "attacker": "Greece",
+                "fatality": 0.0
+            },
+            {
+                "target": "Netherlands",
+                "attacker": "Libya",
+                "fatality": 0.0
+            },
+            {
+                "target": "Netherlands",
+                "attacker": "Netherlands",
+                "fatality": 10.0
+            },
+            {
+                "target": "Netherlands",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "New Zealand",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "New Zealand",
+                "attacker": "New Zealand",
+                "fatality": 0.0
+            },
+            {
+                "target": "New Zealand",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nicaragua",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nicaragua",
+                "attacker": "Costa Rica",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nicaragua",
+                "attacker": "Nicaragua",
+                "fatality": 8.0
+            },
+            {
+                "target": "Niger",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Niger",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Niger",
+                "attacker": "France",
+                "fatality": 3.0
+            },
+            {
+                "target": "Niger",
+                "attacker": "Niger",
+                "fatality": 932.0
+            },
+            {
+                "target": "Niger",
+                "attacker": "Nigeria",
+                "fatality": 13.0
+            },
+            {
+                "target": "Niger",
+                "attacker": "Saudi Arabia",
+                "fatality": 3.0
+            },
+            {
+                "target": "Niger",
+                "attacker": "Switzerland",
+                "fatality": 1.0
+            },
+            {
+                "target": "Niger",
+                "attacker": "United States",
+                "fatality": 2.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Chad",
+                "fatality": 3.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "China",
+                "fatality": 2.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Croatia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "France",
+                "fatality": 5.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Great Britain",
+                "fatality": 4.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "India",
+                "fatality": 4.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Italy",
+                "fatality": 12.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Lebanon",
+                "fatality": 11.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Nigeria",
+                "fatality": 17472.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "North Korea",
+                "fatality": 3.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Norway",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Philippines",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Poland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Russia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "South Korea",
+                "fatality": 6.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Syria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Nigeria",
+                "attacker": "United States",
+                "fatality": 13.0
+            },
+            {
+                "target": "Norway",
+                "attacker": "Norway",
+                "fatality": 77.0
+            },
+            {
+                "target": "Norway",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Afghanistan",
+                "fatality": 166.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Algeria",
+                "fatality": 1.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "China",
+                "fatality": 51.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Colombia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Denmark",
+                "fatality": 8.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Germany",
+                "fatality": 2.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Great Britain",
+                "fatality": 4.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Hungary",
+                "fatality": 6.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "India",
+                "fatality": 11.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Iran",
+                "fatality": 20.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Iraq",
+                "fatality": 43.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Morocco",
+                "fatality": 3.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Pakistan",
+                "fatality": 14659.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Philippines",
+                "fatality": 1.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Poland",
+                "fatality": 4.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Qatar",
+                "fatality": 1.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Russia",
+                "fatality": 3.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Saudi Arabia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Spain",
+                "fatality": 8.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Tunisia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "United Arab Emirates",
+                "fatality": 0.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "United Kingdom",
+                "fatality": 5.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "United States",
+                "fatality": 18.0
+            },
+            {
+                "target": "Pakistan",
+                "attacker": "Yemen",
+                "fatality": 0.0
+            },
+            {
+                "target": "Panama",
+                "attacker": "Panama",
+                "fatality": 3.0
+            },
+            {
+                "target": "Papua New Guinea",
+                "attacker": "Papua New Guinea",
+                "fatality": 3.0
+            },
+            {
+                "target": "Paraguay",
+                "attacker": "Brazil",
+                "fatality": 3.0
+            },
+            {
+                "target": "Paraguay",
+                "attacker": "Germany",
+                "fatality": 2.0
+            },
+            {
+                "target": "Paraguay",
+                "attacker": "Japan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Paraguay",
+                "attacker": "Paraguay",
+                "fatality": 25.0
+            },
+            {
+                "target": "Peru",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Peru",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Peru",
+                "attacker": "Peru",
+                "fatality": 164.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Australia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Belgium",
+                "fatality": 0.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "China",
+                "fatality": 3.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "India",
+                "fatality": 1.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Indonesia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Ireland",
+                "fatality": 1.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Japan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Jordan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Malaysia",
+                "fatality": 6.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Pakistan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Philippines",
+                "fatality": 2484.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Saudi Arabia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "South Korea",
+                "fatality": 2.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Sri Lanka",
+                "fatality": 0.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Philippines",
+                "attacker": "Vietnam",
+                "fatality": 7.0
+            },
+            {
+                "target": "Poland",
+                "attacker": "Azerbaijan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Poland",
+                "attacker": "Poland",
+                "fatality": 3.0
+            },
+            {
+                "target": "Qatar",
+                "attacker": "Qatar",
+                "fatality": 0.0
+            },
+            {
+                "target": "Qatar",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Republic of the Congo",
+                "attacker": "Republic of the Congo",
+                "fatality": 49.0
+            },
+            {
+                "target": "Romania",
+                "attacker": "Romania",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "China",
+                "fatality": 10.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Georgia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Great Britain",
+                "fatality": 3.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Greece",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Kazakhstan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Mongolia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Pakistan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Russia",
+                "fatality": 2530.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Senegal",
+                "fatality": 1.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Sweden",
+                "fatality": 2.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Tajikistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "Uganda",
+                "fatality": 0.0
+            },
+            {
+                "target": "Russia",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Rwanda",
+                "attacker": "Belgium",
+                "fatality": 0.0
+            },
+            {
+                "target": "Rwanda",
+                "attacker": "Canada",
+                "fatality": 1.0
+            },
+            {
+                "target": "Rwanda",
+                "attacker": "Rwanda",
+                "fatality": 1198.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "Denmark",
+                "fatality": 0.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "France",
+                "fatality": 3.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "Germany",
+                "fatality": 1.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "Great Britain",
+                "fatality": 4.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "India",
+                "fatality": 4.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "Ireland",
+                "fatality": 1.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "Pakistan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "Saudi Arabia",
+                "fatality": 287.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "Switzerland",
+                "fatality": 10.0
+            },
+            {
+                "target": "Saudi Arabia",
+                "attacker": "United States",
+                "fatality": 14.0
+            },
+            {
+                "target": "Senegal",
+                "attacker": "Senegal",
+                "fatality": 74.0
+            },
+            {
+                "target": "Serbia",
+                "attacker": "Bosnia-Herzegovina",
+                "fatality": 0.0
+            },
+            {
+                "target": "Serbia",
+                "attacker": "Croatia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Serbia",
+                "attacker": "Serbia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Serbia",
+                "attacker": "United States",
+                "fatality": 2.0
+            },
+            {
+                "target": "Serbia-Montenegro",
+                "attacker": "Croatia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Serbia-Montenegro",
+                "attacker": "Hungary",
+                "fatality": 0.0
+            },
+            {
+                "target": "Serbia-Montenegro",
+                "attacker": "Serbia-Montenegro",
+                "fatality": 2.0
+            },
+            {
+                "target": "Sierra Leone",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sierra Leone",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sierra Leone",
+                "attacker": "India",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sierra Leone",
+                "attacker": "Philippines",
+                "fatality": 36.0
+            },
+            {
+                "target": "Sierra Leone",
+                "attacker": "Sierra Leone",
+                "fatality": 103.0
+            },
+            {
+                "target": "Sierra Leone",
+                "attacker": "South Africa",
+                "fatality": 2.0
+            },
+            {
+                "target": "Slovak Republic",
+                "attacker": "Czech Republic",
+                "fatality": 0.0
+            },
+            {
+                "target": "Slovak Republic",
+                "attacker": "Slovak Republic",
+                "fatality": 2.0
+            },
+            {
+                "target": "Slovenia",
+                "attacker": "Slovenia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Solomon Islands",
+                "attacker": "Solomon Islands",
+                "fatality": 3.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Burundi",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "China",
+                "fatality": 18.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Denmark",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Djibouti",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Estonia",
+                "fatality": 5.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Ethiopia",
+                "fatality": 12.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "France",
+                "fatality": 1.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Great Britain",
+                "fatality": 5.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Italy",
+                "fatality": 2.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Kenya",
+                "fatality": 8.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Libya",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Pakistan",
+                "fatality": 8.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Portugal",
+                "fatality": 1.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Qatar",
+                "fatality": 9.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Somalia",
+                "fatality": 4895.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "South Africa",
+                "fatality": 2.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Sweden",
+                "fatality": 3.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Tanzania",
+                "fatality": 1.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Thailand",
+                "fatality": 0.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Turkey",
+                "fatality": 15.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Uganda",
+                "fatality": 13.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "United Arab Emirates",
+                "fatality": 15.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "United States",
+                "fatality": 2.0
+            },
+            {
+                "target": "Somalia",
+                "attacker": "Yemen",
+                "fatality": 1.0
+            },
+            {
+                "target": "South Africa",
+                "attacker": "Nigeria",
+                "fatality": 0.0
+            },
+            {
+                "target": "South Africa",
+                "attacker": "Rwanda",
+                "fatality": 0.0
+            },
+            {
+                "target": "South Africa",
+                "attacker": "Somalia",
+                "fatality": 5.0
+            },
+            {
+                "target": "South Africa",
+                "attacker": "South Africa",
+                "fatality": 103.0
+            },
+            {
+                "target": "South Africa",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "South Korea",
+                "attacker": "South Korea",
+                "fatality": 0.0
+            },
+            {
+                "target": "South Korea",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "South Sudan",
+                "attacker": "Democratic Republic of the Congo",
+                "fatality": 1.0
+            },
+            {
+                "target": "South Sudan",
+                "attacker": "Ethiopia",
+                "fatality": 0.0
+            },
+            {
+                "target": "South Sudan",
+                "attacker": "India",
+                "fatality": 0.0
+            },
+            {
+                "target": "South Sudan",
+                "attacker": "Pakistan",
+                "fatality": 3.0
+            },
+            {
+                "target": "South Sudan",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "South Sudan",
+                "attacker": "South Sudan",
+                "fatality": 1476.0
+            },
+            {
+                "target": "South Sudan",
+                "attacker": "Sudan",
+                "fatality": 2.0
+            },
+            {
+                "target": "South Sudan",
+                "attacker": "Uganda",
+                "fatality": 1.0
+            },
+            {
+                "target": "Spain",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Spain",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Spain",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Spain",
+                "attacker": "Spain",
+                "fatality": 48.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "China",
+                "fatality": 37.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "India",
+                "fatality": 2.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "Jordan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "Myanmar",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "Netherlands",
+                "fatality": 2.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "New Zealand",
+                "fatality": 1.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "Norway",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "Philippines",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "South Korea",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sri Lanka",
+                "attacker": "Sri Lanka",
+                "fatality": 1905.0
+            },
+            {
+                "target": "St. Lucia",
+                "attacker": "St. Lucia",
+                "fatality": 2.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Bulgaria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "China",
+                "fatality": 6.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Egypt",
+                "fatality": 2.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Ethiopia",
+                "fatality": 5.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Ghana",
+                "fatality": 1.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Ireland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Jordan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Latvia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Nigeria",
+                "fatality": 1.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Philippines",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Rwanda",
+                "fatality": 3.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Senegal",
+                "fatality": 1.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "South Africa",
+                "fatality": 1.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "South Sudan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Sudan",
+                "fatality": 2177.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "Sudan",
+                "attacker": "Zambia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Suriname",
+                "attacker": "Suriname",
+                "fatality": 0.0
+            },
+            {
+                "target": "Swaziland",
+                "attacker": "Swaziland",
+                "fatality": 1.0
+            },
+            {
+                "target": "Sweden",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sweden",
+                "attacker": "Iraq",
+                "fatality": 0.0
+            },
+            {
+                "target": "Sweden",
+                "attacker": "Sweden",
+                "fatality": 10.0
+            },
+            {
+                "target": "Switzerland",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Switzerland",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Switzerland",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Switzerland",
+                "attacker": "Lebanon",
+                "fatality": 0.0
+            },
+            {
+                "target": "Switzerland",
+                "attacker": "Sri Lanka",
+                "fatality": 0.0
+            },
+            {
+                "target": "Switzerland",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Armenia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Canada",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Denmark",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "France",
+                "fatality": 10.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Great Britain",
+                "fatality": 1.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Iran",
+                "fatality": 1.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Iraq",
+                "fatality": 21.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Italy",
+                "fatality": 1.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Japan",
+                "fatality": 2.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Lebanon",
+                "fatality": 19.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Norway",
+                "fatality": 1.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Poland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Russia",
+                "fatality": 10.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Saba (Netherlands Antilles)",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Sweden",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Syria",
+                "fatality": 9188.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Turkey",
+                "fatality": 15.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Ukraine",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "United States",
+                "fatality": 8.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "Vatican City",
+                "fatality": 0.0
+            },
+            {
+                "target": "Syria",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 28.0
+            },
+            {
+                "target": "Taiwan",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Taiwan",
+                "attacker": "Taiwan",
+                "fatality": 9.0
+            },
+            {
+                "target": "Tajikistan",
+                "attacker": "France",
+                "fatality": 1.0
+            },
+            {
+                "target": "Tajikistan",
+                "attacker": "Russia",
+                "fatality": 3.0
+            },
+            {
+                "target": "Tajikistan",
+                "attacker": "Tajikistan",
+                "fatality": 91.0
+            },
+            {
+                "target": "Tanzania",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Tanzania",
+                "attacker": "Tanzania",
+                "fatality": 54.0
+            },
+            {
+                "target": "Tanzania",
+                "attacker": "United States",
+                "fatality": 11.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "Japan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "Malaysia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "Myanmar",
+                "fatality": 15.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "Pakistan",
+                "fatality": 1.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "Philippines",
+                "fatality": 5.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "Taiwan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "Tanzania",
+                "fatality": 1.0
+            },
+            {
+                "target": "Thailand",
+                "attacker": "Thailand",
+                "fatality": 1670.0
+            },
+            {
+                "target": "Trinidad and Tobago",
+                "attacker": "Trinidad and Tobago",
+                "fatality": 0.0
+            },
+            {
+                "target": "Tunisia",
+                "attacker": "Austria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Tunisia",
+                "attacker": "Tunisia",
+                "fatality": 135.0
+            },
+            {
+                "target": "Tunisia",
+                "attacker": "United States",
+                "fatality": 4.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Afghanistan",
+                "fatality": 3.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Algeria",
+                "fatality": 1.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Angola",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Armenia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Bulgaria",
+                "fatality": 1.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Georgia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Germany",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Great Britain",
+                "fatality": 16.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Greece",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "India",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Iran",
+                "fatality": 2.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Iraq",
+                "fatality": 0.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Japan",
+                "fatality": 3.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Russia",
+                "fatality": 8.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Syria",
+                "fatality": 9.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "Turkey",
+                "fatality": 1537.0
+            },
+            {
+                "target": "Turkey",
+                "attacker": "United States",
+                "fatality": 4.0
+            },
+            {
+                "target": "Turkmenistan",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "Burundi",
+                "fatality": 4.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "France",
+                "fatality": 2.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "Italy",
+                "fatality": 4.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "Norway",
+                "fatality": 3.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "Rwanda",
+                "fatality": 0.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "Sierra Leone",
+                "fatality": 0.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "Somalia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "South Sudan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "Sudan",
+                "fatality": 107.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "Uganda",
+                "fatality": 1348.0
+            },
+            {
+                "target": "Uganda",
+                "attacker": "United States",
+                "fatality": 23.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Azerbaijan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "France",
+                "fatality": 2.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Georgia",
+                "fatality": 1.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Hungary",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Israel",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Lithuania",
+                "fatality": 1.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Poland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Sweden",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Uganda",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Ukraine",
+                "fatality": 697.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Ukraine",
+                "attacker": "Uzbekistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Arab Emirates",
+                "attacker": "Japan",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Arab Emirates",
+                "attacker": "United Arab Emirates",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Arab Emirates",
+                "attacker": "United States",
+                "fatality": 1.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Armenia",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Egypt",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Great Britain",
+                "fatality": 107.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Iraq",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Ireland",
+                "fatality": 2.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Lithuania",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Northern Ireland",
+                "fatality": 72.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Pakistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Poland",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Romania",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Rwanda",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Serbia-Montenegro",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Slovak Republic",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Somalia",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "Turkey",
+                "fatality": 0.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "United Kingdom",
+                "fatality": 2.0
+            },
+            {
+                "target": "United Kingdom",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "United States",
+                "attacker": "Argentina",
+                "fatality": 8.0
+            },
+            {
+                "target": "United States",
+                "attacker": "Bangladesh",
+                "fatality": 0.0
+            },
+            {
+                "target": "United States",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "United States",
+                "attacker": "India",
+                "fatality": 1.0
+            },
+            {
+                "target": "United States",
+                "attacker": "Israel",
+                "fatality": 3.0
+            },
+            {
+                "target": "United States",
+                "attacker": "Mexico",
+                "fatality": 0.0
+            },
+            {
+                "target": "United States",
+                "attacker": "Nicaragua",
+                "fatality": 0.0
+            },
+            {
+                "target": "United States",
+                "attacker": "Puerto Rico",
+                "fatality": 0.0
+            },
+            {
+                "target": "United States",
+                "attacker": "Saudi Arabia",
+                "fatality": 0.0
+            },
+            {
+                "target": "United States",
+                "attacker": "United States",
+                "fatality": 3242.0
+            },
+            {
+                "target": "Uruguay",
+                "attacker": "Uruguay",
+                "fatality": 1.0
+            },
+            {
+                "target": "Uzbekistan",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Uzbekistan",
+                "attacker": "Uzbekistan",
+                "fatality": 53.0
+            },
+            {
+                "target": "Vanuatu",
+                "attacker": "Australia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Vanuatu",
+                "attacker": "Vanuatu",
+                "fatality": 0.0
+            },
+            {
+                "target": "Venezuela",
+                "attacker": "Colombia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Venezuela",
+                "attacker": "Spain",
+                "fatality": 0.0
+            },
+            {
+                "target": "Venezuela",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Venezuela",
+                "attacker": "Vatican City",
+                "fatality": 0.0
+            },
+            {
+                "target": "Venezuela",
+                "attacker": "Venezuela",
+                "fatality": 15.0
+            },
+            {
+                "target": "Vietnam",
+                "attacker": "Vietnam",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Bulgaria",
+                "fatality": 1.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "China",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "France",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Great Britain",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Israel",
+                "fatality": 455.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Italy",
+                "fatality": 1.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Jordan",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Nepal",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Peru",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Thailand",
+                "fatality": 2.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "Turkey",
+                "fatality": 1.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "United Arab Emirates",
+                "fatality": 0.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "United States",
+                "fatality": 7.0
+            },
+            {
+                "target": "West Bank and Gaza Strip",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 237.0
+            },
+            {
+                "target": "Western Sahara",
+                "attacker": "Morocco",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Algeria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Australia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Austria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Belarus",
+                "fatality": 1.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Belgium",
+                "fatality": 4.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Bulgaria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Canada",
+                "fatality": 4.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Egypt",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Finland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "France",
+                "fatality": 4.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Germany",
+                "fatality": 3.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Great Britain",
+                "fatality": 3.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "India",
+                "fatality": 3.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Iran",
+                "fatality": 12.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Iraq",
+                "fatality": 1.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Italy",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Japan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Netherlands",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Norway",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Poland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Qatar",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Russia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Saudi Arabia",
+                "fatality": 3.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Somalia",
+                "fatality": 6.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "South Africa",
+                "fatality": 1.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "South Korea",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Spain",
+                "fatality": 9.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Sudan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Switzerland",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Syria",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Tajikistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "United Arab Emirates",
+                "fatality": 1.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "United States",
+                "fatality": 27.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Uzbekistan",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "West Bank and Gaza Strip",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yemen",
+                "attacker": "Yemen",
+                "fatality": 3944.0
+            },
+            {
+                "target": "Yugoslavia",
+                "attacker": "Albania",
+                "fatality": 1.0
+            },
+            {
+                "target": "Yugoslavia",
+                "attacker": "Kosovo",
+                "fatality": 3.0
+            },
+            {
+                "target": "Yugoslavia",
+                "attacker": "Serbia-Montenegro",
+                "fatality": 32.0
+            },
+            {
+                "target": "Yugoslavia",
+                "attacker": "United States",
+                "fatality": 0.0
+            },
+            {
+                "target": "Yugoslavia",
+                "attacker": "Yugoslavia",
+                "fatality": 6.0
+            },
+            {
+                "target": "Zaire",
+                "attacker": "Rwanda",
+                "fatality": 110.0
+            },
+            {
+                "target": "Zaire",
+                "attacker": "Sweden",
+                "fatality": 40.0
+            },
+            {
+                "target": "Zaire",
+                "attacker": "Zaire",
+                "fatality": 53.0
+            },
+            {
+                "target": "Zambia",
+                "attacker": "Zambia",
+                "fatality": 0.0
+            },
+            {
+                "target": "Zimbabwe",
+                "attacker": "Brunei",
+                "fatality": 7.0
+            },
+            {
+                "target": "Zimbabwe",
+                "attacker": "Zimbabwe",
+                "fatality": 9.0
+            }
+        ]
+    }
